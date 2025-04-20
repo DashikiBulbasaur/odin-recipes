@@ -57,6 +57,10 @@ h2 {
   text-decoration-line: underline;
 }
 
+h1 {
+  font-size: 350%;
+}
+
 #note {
   margin-top: -10px;
 }
